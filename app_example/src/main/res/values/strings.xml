@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">KennieLibTemplate</string>
+    <string name="app_name">KennieStatusBar</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+
+    <string name="back">&#xe622;</string>
+
+    <string name="location">&#xe70e;</string>
+    <string name="favorite">&#xe602;</string>
+
+    <string name="dianzan">&#xe601;</string>
+    <string name="share">&#xe603;</string>
+
 </resources>

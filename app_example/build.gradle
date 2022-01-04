@@ -17,7 +17,8 @@ dependencies {
     implementation depK.core
     implementation depX.appcompat
     implementation depX.material
-    implementation project(':library')
+    implementation project(':library_statusbar')
     implementation kennieX.i18n
     implementation kennieX.res
+    implementation 'com.android.ydkit:navigationbar-kit:1.0.0'
 }
